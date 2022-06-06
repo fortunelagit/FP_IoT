@@ -45,5 +45,4 @@ sudo apt-get install libgpiod2
 sudo apt-get install httplib
 sudo apt-get install urllib
 ```
-https://www.c-sharpcorner.com/article/analyzing-temperature-and-humidity-using-raspberry-pi-and-thji/
-https://tutorials-raspberrypi.com/log-raspberry-pi-sensor-data-with-thingspeak-and-analyze-it/
+https://tinoiot.com/tutorials/thingspeak-bme280-raspberry-pi#setting-up-thingsspeak

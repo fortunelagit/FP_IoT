@@ -46,3 +46,4 @@ sudo apt-get install httplib
 sudo apt-get install urllib
 ```
 https://tinoiot.com/tutorials/thingspeak-bme280-raspberry-pi#setting-up-thingsspeak
+https://docs.google.com/document/d/1JUn1DyAo0rIstE9gkYLCh-OdrywajCd9W-EOd_6dzSY/edit

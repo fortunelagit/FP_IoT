@@ -4,6 +4,8 @@ Write : `MMM1AOYKATVN5EY6`
 
 Read : `1ODO66IP53KDBYFC`
 
+Channel ID : 1759134
+
 Rain Module
 ```
 DO - GPIO 17
